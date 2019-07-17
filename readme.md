@@ -6,8 +6,9 @@
 パラグラフ＝段落＝ｐタグ
 改行＝ｂｒタグ＝半角スペース２つ以上
 
-hello.  hello.　　
-hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.hello.
+hello.  hello.  
+hello.  hello.  
+hello.  hello.    
 
 > hello.hello.hello.
 
